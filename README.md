@@ -1,4 +1,4 @@
-# -Convex-Hull-Visualizer-Using-Pygame
+# Convex-Hull-Visualizer-Using-Pygame
 A fully interactive and educational Python application to visualize the **Convex Hull** problem using the **Pygame** library. The tool lets you dynamically add points on a 2D plane and watch in real-time as a convex hull is constructed around them using computational geometry algorithms.
 ## 📖 About the Project
 
